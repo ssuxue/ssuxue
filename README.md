@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 谢谢你在这个世界的角落找到了我
-## Welcome to My GitHub Pages
 
 ## 技术栈 Technology Stack
 ![Go](https://img.shields.io/badge/-Go-FF69B4?style=for-the-badge&logo=go&logoColor=00ADD8)
@@ -23,6 +22,8 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-Redis-DB2C20?style=for-the-badge&logo=redis&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ## Github
 ![Chase's github stats](https://github-readme-stats.vercel.app/api?username=chase&show_icons=true&theme=cobalt)
