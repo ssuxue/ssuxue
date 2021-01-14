@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=Vue.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-Redis-DB2C20?style=for-the-badge&logo=redis&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB)
-![Docker](https://img.shields.io/badge/Docker-yellowgreen?style=for-the-badge&logo=docker)
+![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=3776AB)
+![Docker](https://img.shields.io/badge/Docker-red?style=for-the-badge&logo=docker)
 
 ## Github
 ![Chase's github stats](https://github-readme-stats.vercel.app/api?username=chase&show_icons=true&theme=cobalt)
