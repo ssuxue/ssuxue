@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Go](https://img.shields.io/badge/-Go-FF69B4?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=FFFFFF)
-![XCode](https://img.shields.io/badge/-XCode-1575F9?style=for-the-badge&logo=xcodeDB2C20)
+![Objective-C](https://img.shields.io/badge/-Objective-C-1575F9?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=Vue.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-Redis-DB2C20?style=for-the-badge&logo=redis&logoColor=FFFFFF)
