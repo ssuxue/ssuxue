@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=FFFFFF)
 ![XCode](https://img.shields.io/badge/-XCode-1575F9?style=for-the-badge&logo=xcodeDB2C20)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=Vue.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-Redis-DB2C20?style=for-the-badge&logo=redis&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-yellowgreen?style=for-the-badge&logo=docker)
 
 ## Github
 ![Chase's github stats](https://github-readme-stats.vercel.app/api?username=chase&show_icons=true&theme=cobalt)
